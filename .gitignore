@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+saved_models/
+workdir/
+tensorboard/
+*.mdb
+Dino/data/training/
